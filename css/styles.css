@@ -3,6 +3,9 @@ p {
     text-align: center;
 }
 
+.email {
+    color: white;
+}
 .croissant-photo {
   max-width: 100%;
   border-radius: 10px;
